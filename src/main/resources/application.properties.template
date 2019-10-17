@@ -1,0 +1,10 @@
+spring.datasource.url=
+spring.datasource.driver-class-name=
+spring.datasource.name=
+spring.datasource.password=
+
+server.port: 
+server.ssl.key-store: 
+server.ssl.key-store-password: 
+server.ssl.keyStoreType: 
+server.ssl.keyAlias: 
